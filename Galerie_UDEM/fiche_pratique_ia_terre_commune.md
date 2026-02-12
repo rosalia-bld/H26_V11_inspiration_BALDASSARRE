@@ -35,4 +35,4 @@
 ### Ce qui m'a plus
 J'ai beaucoup apprécié l'idée de marier l'ordinateur et l'humain, c'est un thème qui peut facilement faire contreverse mais selon moi ca a été executé avec finesse et de manière intéressante.
 ### Ce que je ferais autrement
-fcftgf
+J'aurais trouvé intéressant qu'il y ait plusieurs bandeaux pour que plusieurs personnes puissent partager l'expérience au même moment, ce qui alternerait les résultats de l'oeuvre.
