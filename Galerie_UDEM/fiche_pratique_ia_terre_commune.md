@@ -1,7 +1,7 @@
 # Devenir Partagés. Pratiques de l'IA
 ## Lieu de mise en exposition
 - Galerie de l'Université de Montréal
-<!-- photo devant -->
+![moi devant le lieu de l'exposition](moi_devant_exposition_1.jpeg)
 ## Type d'exposition
 - *Devenir partagés. Pratiques de l'IA* est un exposition intérieure temporaire portant place à la galerie de l'UDEM du 28 novembre jusqu'au 28 février
 ## Date de visite
