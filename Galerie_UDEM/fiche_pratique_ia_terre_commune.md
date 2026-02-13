@@ -4,7 +4,7 @@
   
 ![moi devant le lieu de l'exposition](media/moi_devant_exposition_1.jpg)
 ## Type d'exposition
-- *Devenir partagés. Pratiques de l'IA* est un exposition intérieure temporaire portant place à la galerie de l'UDEM du 28 novembre jusqu'au 28 février
+- *Devenir partagés. Pratiques de l'IA* est une exposition intérieure temporaire portant place à la galerie de l'UDEM du 28 novembre jusqu'au 28 février
 ## Date de visite
 - J'ai eu l'opportunité d'aller voir cette exposition dans le cadre du cours *Oeuvres et dispositifs multimédias* le 30 janvier 2026
 ## Titre de l'oeuvre
