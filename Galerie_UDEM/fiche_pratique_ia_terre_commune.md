@@ -14,13 +14,16 @@
 # Année de la réalisation
 - L'oeuvre a été réalisée en 2025
 ## Description de l'oeuvre
-<!-- photo affiche oeuvre -->
+
+![fiche présentation de l'oeuvre](media/fiches_presentation_oeuvre.jpg)
 ## Type d'installation
 - L'installation est immersive, interactive et contemplative.
-<!-- photo bhy -->
+  
+![Noah qui profite de l'expérience](media/noah_concentrer.jpg)
 ## Mise en espace 
 - Voici un croquis illustrant l'installation dans la pièce
-<!-- photo croquis -->
+  
+![croquis de l'installation](media/croquis_oeuvre.jpg)
 ## Composantes et techniques
 - L'installation utilise un bandeau connecté à un ordinateur entreposant lui même sa propre base de données pleine de photos de sols forestiers et qui contient une IA générative entrainée à produire des représentations à partir des photos et des données du bandeau collectant les ondes alpha de votre cerveau.
 ## Éléments nécessaires à la mise en exposition
@@ -31,7 +34,9 @@
 - Bandeau capteur d'ondes alpha
 - Écran qui affiche les ondes  captées
 - Structure en métal soutenant le projecteur
-<!-- photos des installations et nommer -->
+  
+![projecteurs](media/projecteurs.jpg)
+![panneau des ondes](media/panneau_ondes.jpg)
 ## Mon expérience
 ### Ce qui m'a plus
 J'ai beaucoup apprécié l'idée de marier l'ordinateur et l'humain, c'est un thème qui peut facilement faire contreverse mais selon moi ca a été executé avec finesse et de manière intéressante.
