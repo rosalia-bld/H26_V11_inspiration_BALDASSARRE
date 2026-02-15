@@ -18,7 +18,8 @@
 ![fiche présentation de l'oeuvre](media/fiches_presentation_oeuvre.jpg)
 ## Type d'installation
 - L'installation est immersive, interactive et contemplative.
-  
+  ![noah_testant_oeuvre (1)](https://github.com/user-attachments/assets/0afcee46-e15a-4e3a-b348-4a090bbe57ca)
+
 ![Noah qui profite de l'expérience](media/noah_testant_oeuvre.jpg)
 ## Mise en espace 
 - Voici un croquis illustrant l'installation dans la pièce
