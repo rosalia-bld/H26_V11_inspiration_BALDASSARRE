@@ -18,13 +18,14 @@
 ![fiche présentation de l'oeuvre](media/fiches_presentation_oeuvre.jpg)
 ## Type d'installation
 - L'installation est immersive, interactive et contemplative.
-  ![noah_testant_oeuvre (1)](https://github.com/user-attachments/assets/0afcee46-e15a-4e3a-b348-4a090bbe57ca)
 
-![Noah qui profite de l'expérience](media/noah_testant_oeuvre.jpg)
+  ![noah_testant_oeuvre (1)](https://github.com/user-attachments/assets/0afcee46-e15a-4e3a-b348-4a090bbe57ca)
+  
 ## Mise en espace 
 - Voici un croquis illustrant l'installation dans la pièce
   
-![croquis de l'installation](media/croquis_oeuvre.jpg)
+![croquis_oeuvre](https://github.com/user-attachments/assets/78ecc438-faa4-4236-a634-d27a16bf1895)
+
 ## Composantes et techniques
 - L'installation utilise un bandeau connecté à un ordinateur entreposant lui même sa propre base de données pleine de photos de sols forestiers et qui contient une IA générative entrainée à produire des représentations à partir des photos et des données du bandeau collectant les ondes alpha de votre cerveau.
 ## Éléments nécessaires à la mise en exposition
@@ -37,7 +38,8 @@
 - Structure en métal soutenant le projecteur
   
 ![projecteurs](media/projecteurs.jpg)
-![panneau menant a la base de donnée](media/panneau_des_ondes.jpg)
+![panneau_base_donnees](https://github.com/user-attachments/assets/9930e652-4ce7-4ce5-8dff-ee55f160b240)
+
 ## Mon expérience
 ### Ce qui m'a plus
 J'ai beaucoup apprécié l'idée de marier l'ordinateur et l'humain, c'est un thème qui peut facilement faire contreverse mais selon moi ca a été executé avec finesse et de manière intéressante.
