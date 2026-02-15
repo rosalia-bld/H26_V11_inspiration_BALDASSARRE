@@ -38,7 +38,9 @@
 - Structure en métal soutenant le projecteur
   
 ![projecteurs](media/projecteurs.jpg)
-![panneau_base_donnees](https://github.com/user-attachments/assets/9930e652-4ce7-4ce5-8dff-ee55f160b240)
+![panneau_ondes](https://github.com/user-attachments/assets/afe24752-453d-44e0-afec-0d8b3fd1310f)
+![structure_soutien_lumiere](https://github.com/user-attachments/assets/d96b2e60-5b0d-4f5e-aab0-b4be9b0ebf5b)
+![panneau_lien_base_donnes](https://github.com/user-attachments/assets/23719685-20a8-43cb-8d4a-45482c932162)
 
 ## Mon expérience
 ### Ce qui m'a plus
