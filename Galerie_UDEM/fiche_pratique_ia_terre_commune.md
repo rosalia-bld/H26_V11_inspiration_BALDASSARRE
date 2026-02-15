@@ -19,7 +19,7 @@
 ## Type d'installation
 - L'installation est immersive, interactive et contemplative.
   
-![Noah qui profite de l'expérience](media/noah_concentrer.jpg)
+![Noah qui profite de l'expérience](media/noah_testant_oeuvre.jpg)
 ## Mise en espace 
 - Voici un croquis illustrant l'installation dans la pièce
   
@@ -36,7 +36,7 @@
 - Structure en métal soutenant le projecteur
   
 ![projecteurs](media/projecteurs.jpg)
-![panneau des ondes](media/panneau_ondes.jpg)
+![panneau menant a la base de donnée](media/panneau_des_ondes.jpg)
 ## Mon expérience
 ### Ce qui m'a plus
 J'ai beaucoup apprécié l'idée de marier l'ordinateur et l'humain, c'est un thème qui peut facilement faire contreverse mais selon moi ca a été executé avec finesse et de manière intéressante.
