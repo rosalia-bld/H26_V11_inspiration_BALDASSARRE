@@ -38,9 +38,10 @@
 - Structure en métal soutenant le projecteur
   
 ![projecteurs](media/projecteurs.jpg)
-![panneau_ondes](https://github.com/user-attachments/assets/afe24752-453d-44e0-afec-0d8b3fd1310f)
-![structure_soutien_lumiere](https://github.com/user-attachments/assets/d96b2e60-5b0d-4f5e-aab0-b4be9b0ebf5b)
-![panneau_lien_base_donnes](https://github.com/user-attachments/assets/23719685-20a8-43cb-8d4a-45482c932162)
+![structure_soutien_lumiere](https://github.com/user-attachments/assets/43ab3307-b07c-40aa-8674-db376c6d89a5)
+![panneau_ondes](https://github.com/user-attachments/assets/1a5499b5-2aab-44c6-8ae9-8fbea0682e1d)
+![panneau_lien_base_donnes](https://github.com/user-attachments/assets/5bac268c-838b-408e-8fbf-3fb5d424aabf)
+
 
 ## Mon expérience
 ### Ce qui m'a plus
