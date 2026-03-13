@@ -1,7 +1,9 @@
 # Détours rencontres urbaines
 ## Lieu de mise en exposition
 L'exposition a lieu au Centre des mémoires montréalaises(MEM), au 1210 Boul. St-Laurent à Montréal.
-![photo du croquis](media/croquis.jpg)
+![Moi devant l'exposition](media/moi_devant_expo.jpg)
+
+*Me voici devant le lieu de l'exposition*
 ## Type d'exposition
 *Détours rencontres urbaines* est une exposition temporaire et intérieure.
 ## Période de l'exposition
