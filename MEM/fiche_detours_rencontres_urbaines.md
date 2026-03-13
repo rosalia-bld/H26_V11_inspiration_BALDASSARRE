@@ -9,6 +9,7 @@ L'exposition a lieu au Centre des mémoires montréalaises(MEM), au 1210 Boul. S
 *Détours rencontres urbaines* est une exposition temporaire et intérieure.
 ## Période de l'exposition
 L'exposition est en place depuis octobre 2023 et le sera jusqu'en janvier 2027, grâce a son succès.
+
 J'ai eu la chance de la visiter le 3 mars 2026.
 ## Durée de la visite
 La visite de l'exposition complète dure environ 90 minutes.
