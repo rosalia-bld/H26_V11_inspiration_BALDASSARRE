@@ -9,14 +9,17 @@ L'exposition est en place depuis octobre 2023 et le sera jusqu'en janvier 2027, 
 J'ai visité cette exposition le 3 mars 2026.
 ## Durée de l'exposition
 L'exposition complète dure environ 90 minutes.
-## Titre de la firme
+## Titre de la firme et de l'oeuvre
 Le tout est une collaboration entre le groupe média *Urbania* et le *MEM*.
+Il n'y avais pas de titre, ni de cartel individuel a chaque oeuvre, car l'expérience se faconnais dans le mélange de toutes ces tranches de vies montréalaises et non pas dans leur individualité.
 ## Nom de l'artiste
 LazyLegz
 ## Année de la réalisation
-L'exposition a été réalisé en octobre 2023 et grâce a son succès, elle est encore en action aujourd'hui.
+L'exposition a été réalisé en octobre 2023
 ## Description de l'œuvre
-L'oeuvre était selon moi une expérience particulière du début jusqu'a la fin. Il fallais suivre la flèche nous dirigeant en dessous une structure de bois, de l'autre côté se trouvent 2 bancs dans une petite pièce blanche avec une énorme fenêtre vu sur la ville et une télévision. Ensuite, pour moi le visionnement de la vidéo était un énorme plaisir puisque j'avais déja eu la chance de rencontrer cet artiste et en tant que danseuse je trouve son histoire extrèemement inspirante
+Cette œuvre est, selon moi, une expérience particulière du début jusqu’à la fin. Pour commencer, il fallait suivre une flèche qui nous dirigeait sous une structure de bois. De l’autre côté, on arrivait dans une petite pièce blanche où se trouvaient deux bancs, une télévision et une énorme fenêtre donnant sur la ville.
+---
+La vidéo présentait ensuite le parcours d’un des danseurs les plus impressionnants, LazyLegz. Malgré sa maladie neuromusculaire, il ne s’est jamais laissé abattre et a réussi à réinventer la danse en utilisant des béquilles et la force de ses bras. Étant moi-même danseuse et ayant déjà eu la chance de rencontrer cet artiste auparavant, j’étais captivée du début à la fin.
 ## Type d'installation
 ## Mise en espace 
 ## Composantes et techniques
