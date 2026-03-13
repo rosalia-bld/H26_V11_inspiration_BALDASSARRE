@@ -15,6 +15,9 @@ L'exposition complète dure environ 90 minutes.
 Le tout est une collaboration entre le groupe média *Urbania* et le *MEM*.
 Il n’y avait pas de titre ni de cartel individuel pour chaque dispositif, car l’expérience se façonnait dans le mélange de toutes ces tranches de vies montréalaises, pas dans leur individualité.
 J'ai choisi de documenter davantage le dipositif portant sur le danseur *LazyLegz*.
+![Cartel de l'exposition](media/cartel_exposition.jpg)
+
+*Voici le cartel de l'exposition complète*
 ## Nom de l'artiste
 LazyLegz
 ## Année de la réalisation
