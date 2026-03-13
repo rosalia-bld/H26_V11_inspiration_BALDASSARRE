@@ -10,22 +10,21 @@ L'exposition a lieu au Centre des mémoires montréalaises(MEM), au 1210 Boul. S
 ## Période de l'exposition
 L'exposition est en place depuis octobre 2023 et le sera jusqu'en janvier 2027, grâce a son succès.
 J'ai eu la chance de la visiter le 3 mars 2026.
-## Durée de l'exposition
-L'exposition complète dure environ 90 minutes.
-## Titre de la firme et de l'oeuvre
+## Durée de la visite
+La visite de l'exposition complète dure environ 90 minutes.
+## Nom de la firme et du dispositif
 Le tout est une collaboration entre le groupe média *Urbania* et le *MEM*.
 
 Il n’y avait pas de titre ni de cartel individuel pour chaque dispositif, car l’expérience se façonnait dans le mélange de toutes ces tranches de vies montréalaises, pas dans leur individualité.
 
 J'ai choisi de documenter davantage le dipositif portant sur le danseur *LazyLegz*.
 
-![Cartel de l'exposition](media/cartel_exposition.jpg)
+![Texte de présentation de l'exposition](media/presentation_exposition.jpg)
 
 > Voici le cartel de l'exposition complète
-## Nom de l'artiste
-LazyLegz
+
 ## Année de la réalisation
-L'exposition a été réalisé en octobre 2023
+L'oeuvre a été réalisé dans le cadre de cette exposition, donc dans les environs d'octobre 2023.
 ## Description du dispositif
 Ce dispositif était, selon moi, une expérience particulière du début jusqu’à la fin. Pour commencer, il fallait suivre une flèche qui nous dirigeait sous une structure de bois. De l’autre côté, on arrivait dans une petite pièce blanche où se trouvaient deux bancs, une télévision et une énorme fenêtre donnant sur la ville.
 
@@ -45,7 +44,8 @@ Ce dispositif nécessite de peu d'éléments, sachant que la majorité de l'effe
 - 2 bancs
 - 2 paires d'écouteurs
 - Borne de lecture audio(FR/EN)
-- Télévision
+- Écran d'environ 30 pouces
+- Support au plafond pour l'écran
 - Projecteur qui affiche la flèche
 
 ![Structure de bois](media/structure_bois.jpg)
@@ -57,8 +57,8 @@ Ce dispositif nécessite de peu d'éléments, sachant que la majorité de l'effe
 ![Flèche affichée par projecteur](media/flèche.jpg)
 > Flèche affichée par projecteur
 
-![Vue d'ensemble](media/vue_ensemble.jpg)
-> Vue d'ensemble du dispositif
+![Vue assise](media/vue_assise.jpg)
+> Vue du dispositif lors de l'expérience
 
 ## Mon expérience
 ### Ce qui m'a plus
