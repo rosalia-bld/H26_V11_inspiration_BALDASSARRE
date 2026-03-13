@@ -47,6 +47,7 @@ Ce dispositif nécessite de peu d'éléments, sachant que la majorité de l'effe
 - Borne de lecture audio(FR/EN)
 - Télévision
 - Projecteur qui affiche la flèche
+
 ![Structure de bois](media/structure_bois.jpg)
 > Stucture de bois de la pièce cachée
 
@@ -55,6 +56,10 @@ Ce dispositif nécessite de peu d'éléments, sachant que la majorité de l'effe
 
 ![Flèche affichée par projecteur](media/flèche.jpg)
 > Flèche affichée par projecteur
+
+![Vue d'ensemble](media/vue_ensemble.jpg)
+> Vue d'ensemble du dispositif
+
 ## Mon expérience
 ### Ce qui m'a plus
 Premièrement, j’ai beaucoup aimé la thématique des rencontres urbaines. Ce n’est pas quelque chose qu’on voit souvent dans les expositions et ça permet vraiment de découvrir la ville d’une autre façon. À travers les témoignages des différentes personnes présentées, on voit Montréal sous un angle plus personnel et humain. On réalise que chaque personne a sa propre relation avec la ville et ça rend l’expérience plus intéressante.
