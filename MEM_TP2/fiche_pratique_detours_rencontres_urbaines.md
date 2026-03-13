@@ -46,5 +46,5 @@ Je pense que ce serait intéressant d’ajouter des éléments interactifs pour 
 Les photos ont été prise par moi-même
 
 https://memmtl.ca/programmation/detours
-https://www.bing.com/ck/a?!&&p=82f346367ce31d60cfc2c2803a968d8f8e2138e940b3483ffced187147305b41JmltdHM9MTc3MzI3MzYwMA&ptn=3&ver=2&hsh=4&fclid=36fab4f7-e98d-6364-3f83-a29fe8d66211&psq=urbania&u=a1aHR0cHM6Ly91cmJhbmlhLm1lZGlhL2ZyL2EtcHJvcG9z
+https://urbania.media/fr/a-propos 
 https://grandsballets.com/fr/centre-national-de-danse-therapie/blogue/la-danse-sans-limites-entrevue-avec-le-b-boy-lazylegz/
