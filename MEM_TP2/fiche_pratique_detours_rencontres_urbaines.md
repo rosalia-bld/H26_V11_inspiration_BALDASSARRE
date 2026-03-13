@@ -28,6 +28,7 @@ LazyLegz
 L'exposition a été réalisé en octobre 2023
 ## Description du dispositif
 Ce dispositif était, selon moi, une expérience particulière du début jusqu’à la fin. Pour commencer, il fallait suivre une flèche qui nous dirigeait sous une structure de bois. De l’autre côté, on arrivait dans une petite pièce blanche où se trouvaient deux bancs, une télévision et une énorme fenêtre donnant sur la ville.
+
 La vidéo présentait ensuite le parcours d’un des danseurs les plus impressionnants, LazyLegz. Malgré sa maladie neuromusculaire, il ne s’est jamais laissé abattre et a réinventer la danse en utilisant des béquilles et la force de ses bras. Étant moi-même danseuse et ayant déjà eu la chance de rencontrer cet artiste auparavant, j’étais captivée du début à la fin.
 ## Type d'installation
 L'installation est immersive et contemplative.
