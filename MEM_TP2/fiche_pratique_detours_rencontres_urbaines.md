@@ -45,6 +45,6 @@ Je pense que ce serait intéressant d’ajouter des éléments interactifs pour 
 ## Références
 Les photos ont été prise par moi-même
 
-https://memmtl.ca/programmation/detours
-https://urbania.media/fr/a-propos 
-https://grandsballets.com/fr/centre-national-de-danse-therapie/blogue/la-danse-sans-limites-entrevue-avec-le-b-boy-lazylegz/
+- https://memmtl.ca/programmation/detours
+- https://urbania.media/fr/a-propos 
+- https://grandsballets.com/fr/centre-national-de-danse-therapie/blogue/la-danse-sans-limites-entrevue-avec-le-b-boy-lazylegz/
