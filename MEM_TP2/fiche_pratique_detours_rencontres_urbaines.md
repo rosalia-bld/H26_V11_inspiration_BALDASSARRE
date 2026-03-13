@@ -34,6 +34,9 @@ La vidéo présentait ensuite le parcours d’un des danseurs les plus impressio
 L'installation est immersive et contemplative.
 ## Mise en espace 
 Voici un croquis illustrant brièvement le dispositif.
+
+![Croquis du dispositif](media/croquis_dispositif.jpg)
+> Croquis bref du dispositif
 ## Composantes et techniques
 L'installation utilise des écouteurs, ceux-ci sont connectés à une borne de lecture audio nous permettant de commencer la vidéo dans la langue que nous le souhaitons(FR/EN). Lorsque le bouton enclenché, il ne suffit que de profiter du visionnement de la vidéo et changer de station.
 ## Éléments nécessaires à la mise en exposition
