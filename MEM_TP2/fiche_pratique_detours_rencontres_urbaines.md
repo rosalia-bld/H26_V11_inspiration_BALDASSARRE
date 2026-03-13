@@ -4,7 +4,7 @@ L'exposition a lieu au Centre des mémoires montréalaises(MEM), au 1210 Boul. S
 
 ![Moi devant l'exposition](media/moi_devant_expo.jpg)
 
-*Me voici devant le lieu de l'exposition*
+> Me voici devant le lieu de l'exposition
 ## Type d'exposition
 *Détours rencontres urbaines* est une exposition temporaire et intérieure.
 ## Période de l'exposition
@@ -21,7 +21,7 @@ J'ai choisi de documenter davantage le dipositif portant sur le danseur *LazyLeg
 
 ![Cartel de l'exposition](media/cartel_exposition.jpg)
 
-*Voici le cartel de l'exposition complète*
+> Voici le cartel de l'exposition complète
 ## Nom de l'artiste
 LazyLegz
 ## Année de la réalisation
