@@ -2,7 +2,7 @@
 ## Lieu de mise en exposition
 L'exposition a lieu au Centre des mémoires montréalaises(MEM), au 1210 Boul. St-Laurent à Montréal.
 ## Type d'exposition
-*Détours rencontres urbaines* est une exposition immersive et contemplative.
+*Détours rencontres urbaines* est une exposition temporaire et intérieure.
 ## Période de l'exposition
 L'exposition est en place depuis octobre 2023 et le sera jusqu'en janvier 2027, grâce a son succès.
 ## Date de visite
@@ -21,9 +21,9 @@ L'exposition a été réalisé en octobre 2023
 Ce dispositif était, selon moi, une expérience particulière du début jusqu’à la fin. Pour commencer, il fallait suivre une flèche qui nous dirigeait sous une structure de bois. De l’autre côté, on arrivait dans une petite pièce blanche où se trouvaient deux bancs, une télévision et une énorme fenêtre donnant sur la ville.
 La vidéo présentait ensuite le parcours d’un des danseurs les plus impressionnants, LazyLegz. Malgré sa maladie neuromusculaire, il ne s’est jamais laissé abattre et a réinventer la danse en utilisant des béquilles et la force de ses bras. Étant moi-même danseuse et ayant déjà eu la chance de rencontrer cet artiste auparavant, j’étais captivée du début à la fin.
 ## Type d'installation
-L'installation est immersive dans son approche avec la pièce cachée et la fenêtre laissant sur Montréal, mais elle est contemplative dans son ensemble puisque c'est un vidéo à visionner.
+L'installation est immersive et contemplative.
 ## Mise en espace 
-Voici un croquis illustrant brièvement l'exposition.
+Voici un croquis illustrant brièvement le dispositif.
 ## Composantes et techniques
 L'installation utilise des écouteurs, ceux-ci sont connectés à une borne de lecture audio nous permettant de commencer la vidéo dans la langue que nous le souhaitons(FR/EN). Lorsque le bouton enclenché, il ne suffit que de profiter du visionnement de la vidéo et changer de station.
 ## Éléments nécessaires à la mise en exposition
@@ -41,8 +41,9 @@ Premièrement, j’ai beaucoup aimé la thématique des rencontres urbaines. Ce 
 J’ai aussi trouvé que les décors étaient vraiment beaux et très détaillés. On voyait que chaque élément avait été pensé pour être en lien avec les vidéos et les histoires racontées. Les décors aidaient beaucoup à créer une ambiance et rendaient l’expérience plus immersive. Selon moi, ça ajoutait vraiment quelque chose à l’œuvre et ça permettait de mieux entrer dans l’univers des différents témoignages.
 ### Ce que je ferais autrement
 Si j’avais à refaire ce dispositif, j’essaierais d’ajouter un peu plus d’interactivité. L’exposition dure environ 90 minutes et la majorité du temps on est assis à regarder des vidéos. Même si les histoires sont intéressantes, ça peut parfois devenir un peu long.
-
 Je pense que ce serait intéressant d’ajouter des éléments interactifs pour rendre l’expérience plus dynamique. Par exemple, des écrans tactiles ou des petits éléments avec lesquels les visiteurs peuvent interagir pendant l’exposition. Ça aiderait à garder l’attention des gens et rendrait la visite encore plus captivante.
+
+Je porterais également une attention particulière au fonctionnement de la borne de lecture pour le changement de langue. Lors de ma visite, certaines vidéos ne pouvaient pas être mises en français, ce qui peut représenter un obstacle pour certaines personnes.
 ## Références
 Les photos ont été prise par moi-même
 
