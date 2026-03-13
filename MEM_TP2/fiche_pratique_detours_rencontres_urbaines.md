@@ -14,7 +14,9 @@ J'ai eu la chance de la visiter le 3 mars 2026.
 L'exposition complète dure environ 90 minutes.
 ## Titre de la firme et de l'oeuvre
 Le tout est une collaboration entre le groupe média *Urbania* et le *MEM*.
+
 Il n’y avait pas de titre ni de cartel individuel pour chaque dispositif, car l’expérience se façonnait dans le mélange de toutes ces tranches de vies montréalaises, pas dans leur individualité.
+
 J'ai choisi de documenter davantage le dipositif portant sur le danseur *LazyLegz*.
 
 ![Cartel de l'exposition](media/cartel_exposition.jpg)
