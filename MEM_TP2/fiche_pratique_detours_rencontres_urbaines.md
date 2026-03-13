@@ -38,6 +38,9 @@ L'installation utilise des écouteurs, ceux-ci sont connectés à une borne de l
 ## Éléments nécessaires à la mise en exposition
 Ce dispositif nécessite de peu d'éléments, sachant que la majorité de l'effet est créé par la pièce cachée et la fenêtre. 
 - Pièce cachée(structure de bois)
+  
+![Structure de bois](media/structure_bois.jpg)
+> Stucture de bois de la pièce cachée
 - 2 bancs
 - 2 paires d'écouteurs
 - Borne de lecture audio(FR/EN)
