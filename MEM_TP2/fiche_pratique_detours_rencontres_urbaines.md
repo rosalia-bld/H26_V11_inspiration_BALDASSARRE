@@ -11,7 +11,7 @@ J'ai visité cette exposition le 3 mars 2026
 L'exposition complète dure environ 90 minutes
 ## Titre de l'œuvre
 ## Nom de l'artiste
-# Année de la réalisation
+## Année de la réalisation
 ## Description de l'œuvre
 ## Type d'installation
 ## Mise en espace 
