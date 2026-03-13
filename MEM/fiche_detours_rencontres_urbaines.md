@@ -54,7 +54,7 @@ Ce dispositif nécessite de peu d'éléments, sachant que la majorité de l'effe
 ![Borne de lecture audio](media/borne_audio.jpg)
 > Borne de lecture et de traduction audio
 
-![Flèche affichée par projecteur](media/flèche.jpg)
+![Flèche affichée par projecteur](media/fleche.jpg)
 > Flèche affichée par projecteur
 
 ![Vue assise](media/vue_assise.jpg)
