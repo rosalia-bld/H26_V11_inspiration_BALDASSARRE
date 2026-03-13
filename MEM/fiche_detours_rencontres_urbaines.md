@@ -22,7 +22,7 @@ J'ai choisi de documenter davantage le dipositif portant sur le danseur *LazyLeg
 
 ![Texte de présentation de l'exposition](media/presentation_exposition.jpg)
 
-> Voici le cartel de l'exposition complète
+> Voici le texte de présentation de l'exposition complète
 
 ## Année de la réalisation
 L'oeuvre a été réalisé dans le cadre de cette exposition, donc dans les environs d'octobre 2023.
