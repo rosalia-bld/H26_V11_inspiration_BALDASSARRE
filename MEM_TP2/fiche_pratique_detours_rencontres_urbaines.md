@@ -45,11 +45,14 @@ Ce dispositif nécessite de peu d'éléments, sachant que la majorité de l'effe
 - 2 bancs
 - 2 paires d'écouteurs
 - Borne de lecture audio(FR/EN)
+
+![Borne de lecture audio](media/borne_audio.jpg)
+> Borne de lecture et de traduction audio
 - Télévision
 - Projecteur qui affiche la flèche
 
 ![Flèche affichée par projecteur](media/flèche.jpg)
-
+> Flèche affichée par projecteur
 ## Mon expérience
 ### Ce qui m'a plus
 Premièrement, j’ai beaucoup aimé la thématique des rencontres urbaines. Ce n’est pas quelque chose qu’on voit souvent dans les expositions et ça permet vraiment de découvrir la ville d’une autre façon. À travers les témoignages des différentes personnes présentées, on voit Montréal sous un angle plus personnel et humain. On réalise que chaque personne a sa propre relation avec la ville et ça rend l’expérience plus intéressante.
