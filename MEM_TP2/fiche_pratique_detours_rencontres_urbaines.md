@@ -1,6 +1,7 @@
 # Détours rencontres urbaines
 ## Lieu de mise en exposition
 L'exposition a lieu au Centre des mémoires montréalaises(MEM), au 1210 Boul. St-Laurent à Montréal.
+
 ![Moi devant l'exposition](media/moi_devant_expo.jpg)
 
 *Me voici devant le lieu de l'exposition*
@@ -15,6 +16,7 @@ L'exposition complète dure environ 90 minutes.
 Le tout est une collaboration entre le groupe média *Urbania* et le *MEM*.
 Il n’y avait pas de titre ni de cartel individuel pour chaque dispositif, car l’expérience se façonnait dans le mélange de toutes ces tranches de vies montréalaises, pas dans leur individualité.
 J'ai choisi de documenter davantage le dipositif portant sur le danseur *LazyLegz*.
+
 ![Cartel de l'exposition](media/cartel_exposition.jpg)
 
 *Voici le cartel de l'exposition complète*
