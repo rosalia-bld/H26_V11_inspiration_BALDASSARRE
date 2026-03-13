@@ -16,7 +16,7 @@ Il n’y avait pas de titre ni de cartel individuel pour chaque œuvre, car l’
 LazyLegz
 ## Année de la réalisation
 L'exposition a été réalisé en octobre 2023
-## Description de l'œuvre
+## Description du dispositif
 Cette œuvre est, selon moi, une expérience particulière du début jusqu’à la fin. Pour commencer, il fallait suivre une flèche qui nous dirigeait sous une structure de bois. De l’autre côté, on arrivait dans une petite pièce blanche où se trouvaient deux bancs, une télévision et une énorme fenêtre donnant sur la ville.
 La vidéo présentait ensuite le parcours d’un des danseurs les plus impressionnants, LazyLegz. Malgré sa maladie neuromusculaire, il ne s’est jamais laissé abattre et a réinventer la danse en utilisant des béquilles et la force de ses bras. Étant moi-même danseuse et ayant déjà eu la chance de rencontrer cet artiste auparavant, j’étais captivée du début à la fin.
 ## Type d'installation
@@ -26,7 +26,7 @@ Voici un croquis illustrant brièvement l'exposition.
 ## Composantes et techniques
 L'installation utilise des écouteurs, ceux-ci sont connectés à une borne de lecture audio nous permettant de commencer la vidéo dans la langue que nous le souhaitons(FR/EN). Lorsque le bouton enclenché, il ne suffit que de profiter du visionnement de la vidéo et changer de station.
 ## Éléments nécessaires à la mise en exposition
-Cette oeuvre nécessite de peu d'éléments, sachant que la majorité de l'effet est créé par la pièce cachée et la fenêtre. 
+Ce dispositif nécessite de peu d'éléments, sachant que la majorité de l'effet est créé par la pièce cachée et la fenêtre. 
 - Pièce cachée(structure de bois)
 - 2 bancs
 - 2 paires d'écouteurs
