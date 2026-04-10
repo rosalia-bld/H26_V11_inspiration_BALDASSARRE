@@ -4,7 +4,7 @@
  
 
 ## TERMINAL
-### noms des créateurs et créatrices:
+### Noms des créateurs et créatrices:
 
  
 
@@ -16,7 +16,7 @@
 
 ---
 ## Mission décollage ( O.I.G.N.I.O.N )
-### noms des créateurs et créatrices:
+### Noms des créateurs et créatrices:
 
  
  
@@ -31,7 +31,7 @@
 
  
 ## Symbiose
-### noms des créateurs et créatrices:
+### Noms des créateurs et créatrices:
 
  
  
@@ -44,7 +44,7 @@
  
 ---
 ## Arbre-en-face
-### noms des créateurs et créatrices:
+### Noms des créateurs et créatrices:
 
 
  
@@ -56,11 +56,11 @@
 
 ---
 ## Quand les yeux se croisent
-### noms des créateurs et créatrices:
+### Noms des créateurs et créatrices:
 
  
 
----
+
 ### Installation en cours (ou finale)
 
  
@@ -70,7 +70,7 @@
 
 ---
 ## Océan rouge
-### noms des créateurs et créatrices:
+### Noms des créateurs et créatrices:
 
  
 ### Installation en cours (ou finale)
