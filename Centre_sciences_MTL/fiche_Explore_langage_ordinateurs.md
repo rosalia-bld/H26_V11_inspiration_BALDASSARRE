@@ -3,7 +3,9 @@ Cette oeuvre est en exposition au Centre des Sciences de Montréal dans l'exposi
 ## Type d'exposition
 *Explore* est une exposition mélangeant plusieurs domaines stimulants, dont le mécanique et le multimédia
 ## Date de visite
+J'ai visité le Centre des Sciences le 1er avril 2026.
 ## Titre de l'œuvre
+*Le langage des ordinateurs*
 ## Nom de l'artiste
 # Année de la réalisation
 ## Description de l'œuvre
