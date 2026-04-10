@@ -12,7 +12,17 @@ J'ai visité le Centre des Sciences le 1er avril 2026.
 ## Type d'installation
 ## Mise en espace 
 ## Composantes et techniques
+Nous utilisons l'écran pour programmer les lumières et la plaquette tournante pour ensuite créer l'effet que nous désirons avec les ombres des statuettes.
+- Ordinateur
+- Écran
+- Logiciel de programmation simple (semblable à *Scratch*)
+- Plaquette tournante
+- 2 lumières différentes
 ## Éléments nécessaires à la mise en exposition
+- Pièce isolée
+- Structure de bois agissant de table pour l'ensemble des composantes
+- Boitier de métal vitré permettant de voir les composantes en action et les protéger ainsi que l'écran
+- Statuettes en bois
 ## Mon expérience
 ### Ce qui m'a plus
 J'ai adoré le concept général de l'oeuvre. Une pièce sombre et isolé nous permettant de controler nous meme le placement des statuettes de bois ou de la lumière
