@@ -1,7 +1,7 @@
 ## Lieu de mise en exposition
 Cette oeuvre est en exposition au Centre des Sciences de Montréal dans l'exposition permanente *Explore*.
 ## Type d'exposition
-*Explore* est une exposition mélangeant plusieurs domaines stimulants, dont le mécanique et le multimédia
+*Explore* est une exposition permanente et intérieure.
 ## Date de visite
 J'ai visité le Centre des Sciences le 1er avril 2026.
 ## Titre de l'œuvre
@@ -10,6 +10,7 @@ J'ai visité le Centre des Sciences le 1er avril 2026.
 ## Année de la réalisation
 ## Description de l'œuvre
 ## Type d'installation
+L'installation est contemplative et intéractive
 ## Mise en espace 
 ## Composantes et techniques
 Nous utilisons l'écran pour programmer les lumières et la plaquette tournante pour ensuite créer l'effet que nous désirons avec les ombres des statuettes.
