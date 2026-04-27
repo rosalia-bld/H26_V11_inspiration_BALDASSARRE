@@ -4,8 +4,11 @@
  
 ## TERMINAL
 ### Noms des créateurs et créatrices:
-
- 
+- Émeryk Bélisle
+- Elie Daher
+- Ting Yung Lu Terry
+- Dana Saavedra-Torrano
+- Mégane Ranger
 
 ### Installation en cours (ou finale)
 
@@ -17,9 +20,11 @@ Avant l’expérimentation, j’étais déjà très enthousiaste face à la pré
 ---
 ## Mission décollage ( O.I.G.N.I.O.N )
 ### Noms des créateurs et créatrices:
-
- 
- 
+- Ahmed Kaissoumi
+- Radhouane Kordan
+- Justin Montpetit
+- Thearylou Lach
+- Jad Saloumi
 ### Installation en cours (ou finale)
 
 ### Schéma de l'installation prévue
@@ -32,9 +37,10 @@ J’étais d’abord très intriguée par ce projet, surtout par le tableau de b
  
 ## Symbiose
 ### Noms des créateurs et créatrices:
-
- 
- 
+- Yannick Chamberland
+- Benjamin Ferland
+- Ryan Dufault
+- Walid Cheour
 ### Installation en cours (ou finale)
 
 ### Schéma de l'installation prévue
@@ -46,9 +52,11 @@ Cette œuvre m’intriguait beaucoup, notamment parce que j’apprécie la scien
 ---
 ## Arbre-en-face
 ### Noms des créateurs et créatrices:
-
-
- 
+- Alexandre Gendron
+- Mikael Arseneau
+- Mathieu Willet
+- Matis Ghariani
+- Rafael Angon Dube
 ### Installation en cours (ou finale)
 
 ### Schéma de l'installation prévue
@@ -59,10 +67,11 @@ J’ai été surprise et un peu déstabilisée par la présentation de ce projet
 ---
 ## Quand les yeux se croisent
 ### Noms des créateurs et créatrices:
-
- 
-
-
+- Edelwin Ledru
+- Félix Lavoie
+- Jade Hébert
+- Manel Yaya
+- Patricia Nassif
 ### Installation en cours (ou finale)
 
  
@@ -74,8 +83,8 @@ Cette oeuvre m’a d’abord surprise. Au premier abord, je ne comprenais pas vr
 ---
 ## Océan rouge
 ### Noms des créateurs et créatrices:
-
- 
+- Amira Tounekti
+- Kristy Moussally
 ### Installation en cours (ou finale)
 
  
