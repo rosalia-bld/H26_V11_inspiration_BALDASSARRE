@@ -2,7 +2,7 @@
 ## Lieu de mise en exposition
 Cette exposition a eu lieu au Collège Montmorency, dans le grand studio de TIM.
 ## Type d'exposition
-Cette exposition était immersive.
+Cette exposition était temporaire et intérieure.
 ## Date de visite
 J'ai visité cette exposition une première fois le 24 février et une deuxième fois le 17 mars 2026.
 ## Titre de l'œuvre
@@ -20,9 +20,17 @@ Cette exposition a été conçue en 2025 dans le cadre de leur projet de fin de 
 ## Type d'installation
 ## Mise en espace 
 ## Composantes et techniques
+- Projecteurs
+- Lumières
+- Hauts-parleurs
+- Site web du jeu
 ## Éléments nécessaires à la mise en exposition
+- Poufs pour s'asseoir
+- Pièce alimentée d'électricité
+- Mur vierge
+- Téléphone
 ## Mon expérience
 ### Ce qui m'a plus
-J'ai particulièrement aimé l'ambiance de cette oeuvre, des visuels du jeu jusqu'au sons et aux accessoires, rien n'a été mis à l'écart. Selon moi, c'était l'oeuvre la plus complète de l'exposition et celle dont l'immersion était la plus efficace.
+J’ai particulièrement apprécié l’ambiance de cette œuvre, autant au niveau des visuels du jeu que des sons et des accessoires, rien n’avait été laissé de côté. L’ensemble formait une expérience cohérente et bien pensée. Selon moi, il s’agissait de l’œuvre la plus complète de l’exposition, et celle dont l’immersion était la plus réussie et la plus convaincante.
 ### Ce que je ferais autrement
-
+Selon moi, le projet était déjà assez complet et bien construit, ce qui fait qu’il n’y aurait pas grand-chose à ajouter sur le contenu global. La seule amélioration que j’envisagerais serait au niveau de la complexité des niveaux, qui m’a semblé un peu trop simple. En augmentant légèrement la difficulté ou en ajoutant davantage de défis, l’expérience pourrait devenir plus stimulante et engageante sur la durée.
