@@ -98,8 +98,10 @@ J’étais premièrement très investie dans la présentation, puisque j’adore
 ---
 ## Trois cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre de projet
 ### Programmation interactive 
+La programmation est essentielle pour ce type de projet puisque c'est ce qui te permet de mettre de l'intéractivité dans ton interface.
 
 ### Web
+Le web est un incontournable puisque c'est ce qui te permet de developper des sites web, le jeu Terminal n'aura pa 
 
 ### Modelisation 3D
 
