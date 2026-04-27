@@ -1,8 +1,7 @@
 # Expo Réseau Vivant
 ## Palmares exposition des étudiants TIM
+ En somme, je souhaite souligner le travail et les efforts de tous ces étudiants finissants, qui ont su rassembler leurs forces et leurs idées pour créer des projets interactifs à la fois divertissants et bien réalisés. Leur implication reflète sur la qualité des projets présentés.
  
- 
-
 ## TERMINAL
 ### Noms des créateurs et créatrices:
 
@@ -13,6 +12,7 @@
 ### Schéma de l'installation prévue
 
 ### Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
+Avant l'expérimentation, j'étais déjà très excitée par la présentation, les lumières, les bruits et les pouf pour s'asseoir. Ensuite, l'excitation a persisté puisque le jeu fonctionnait très bien.
 
 ---
 ## Mission décollage ( O.I.G.N.I.O.N )
