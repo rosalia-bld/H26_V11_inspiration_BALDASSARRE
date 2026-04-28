@@ -13,8 +13,8 @@
 ### Installation en cours (ou finale)
 
 ### Schéma de l'installation prévue
-![Schéma 2D du jeu Terminal](./media/plan_2d_terminal.jpg)
-![Schéma 3D du jeu Terminal](./media/plan_3d_terminal.jpg)
+![Schéma 2D du jeu Terminal](./media/plan_2d_terminal.png)
+![Schéma 3D du jeu Terminal](./media/plan_3d_terminal.png)
 ### Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
 Avant l’expérimentation, j’étais déjà très enthousiaste face à la présentation, notamment les lumières, les sons et les poufs pour s’asseoir. Par la suite, cet enthousiasme s’est maintenu, puisque le jeu fonctionnait très bien et offrait une expérience fluide.
 
