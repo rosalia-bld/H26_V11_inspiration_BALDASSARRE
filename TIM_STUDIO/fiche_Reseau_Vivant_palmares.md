@@ -48,7 +48,7 @@ J’étais d’abord très intriguée par ce projet, surtout par le tableau de b
 
 ### Schéma de l'installation prévue
 ![Moi devant l'exposition](media/moi_devant_expo.jpg)
- 
+> Schéma d'implantation 2D
 ### Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
 Cette œuvre m’intriguait beaucoup, notamment parce que j’apprécie la science et les concepts qui s’y rattachent. Cependant, les "bugs" étaient trop fréquents, ce qui rendait l’expérience difficile à compléter et empêchait d’en profiter pleinement.
  
@@ -64,6 +64,7 @@ Cette œuvre m’intriguait beaucoup, notamment parce que j’apprécie la scien
 
 ### Schéma de l'installation prévue
 ![Moi devant l'exposition](media/moi_devant_expo.jpg)
+> Schéma d'implantation 2D
 ### Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
 J’ai été surprise et un peu déstabilisée par la présentation de ce projet, dont le concept n’était pas très clair au départ. Après l’avoir expérimenté, je dois avouer avoir été quelque peu déçue par l’œuvre. Même si le fonctionnement était bien exécuté, le thème ne m’a pas particulièrement interpellée.
 
@@ -80,6 +81,7 @@ J’ai été surprise et un peu déstabilisée par la présentation de ce projet
  
 ### Schéma de l'installation prévue
 ![Moi devant l'exposition](media/moi_devant_expo.jpg)
+> Schéma d'implantation 2D
 ### Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
 Cette oeuvre m’a d’abord surprise. Au premier abord, je ne comprenais pas vraiment le but et je me suis surtout laissée porter par l’esthétique de l’installation, en admirant la présentation soignée des plantes et des télévisions. Puis, en découvrant progressivement le concept, j’ai beaucoup apprécié l’expérience. La simplicité du projet en faisait justement tout son charme, rendant l’ensemble à la fois accessible et agréable à explorer.
 
@@ -93,6 +95,7 @@ Cette oeuvre m’a d’abord surprise. Au premier abord, je ne comprenais pas vr
  
 ### Schéma de l'installation prévue
 ![Moi devant l'exposition](media/moi_devant_expo.jpg)
+> Schéma d'implantation 2D
  
  
 ### Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
