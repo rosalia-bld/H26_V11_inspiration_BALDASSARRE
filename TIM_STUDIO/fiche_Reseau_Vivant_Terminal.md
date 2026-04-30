@@ -14,7 +14,7 @@ Terminal
 - Dana Saavedra-Torrano
 - Mégane Ranger
 # Année de la réalisation
-Cette exposition a été conçue en 2025 dans le cadre de leur projet de fin de programme.
+Cette exposition a été conçue en 2025 dans le cadre du cours *Expérience multimédia intéractive* pour leur projet collaboratif et interactif de fin de programme.
 ## Description de l'œuvre
 
 ## Type d'installation
