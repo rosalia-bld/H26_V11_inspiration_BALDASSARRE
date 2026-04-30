@@ -99,13 +99,12 @@ J’étais premièrement très investie dans la présentation, puisque j’adore
 ---
 ## Trois cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre de projet
 ### Programmation interactive 
-La programmation est essentielle pour ce type de projet puisque c'est ce qui te permet de mettre de l'intéractivité dans ton interface.
+La programmation interactive est essentielle pour ce type de projet, puisqu’elle permet de rendre l’oeuvre réactive aux actions de l’utilisateur. Par exemple, dans le projet où l’on pouvait faire pousser des plantes en touchant l’écran, c’est grâce à la programmation que chaque interaction déclenche une transformation visuelle en temps réel.
 
 ### Web
-Le web est un incontournable puisque c'est ce qui te permet de developper des sites web, le jeu Terminal n'aura pa 
+Le web est un incontournable, car il permet de créer des interfaces et de relier différents appareils entre eux. Par exemple, pour un jeu où le téléphone sert de manette, comme Terminal,  il faut une base web pour que tout fonctionne ensemble. Ce sont des compétences utiles dans la majorité des projets interactifs.
 
 ### Modelisation 3D
-
- 
+La modélisation 3D est également très importante, puisqu’elle aide à concevoir et à visualiser les environnements avant même leur réalisation. Elle permet de mieux planifier les éléments visuels et de créer des univers cohérents, ce qui est essentiel pour offrir une expérience immersive et bien pensée.
 ## Nommer et décrire une technique ou une composante technologique qui est utilisée dans l'un des projets et que vous ne connaissiez pas.
 
