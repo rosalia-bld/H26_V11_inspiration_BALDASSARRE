@@ -29,7 +29,7 @@ Nous utilisons l'écran pour programmer les lumières et la plaquette tournante 
 - Statuettes en bois
 ## Mon expérience
 ### Ce qui m'a plus
-J'ai adoré le concept général de l'oeuvre. Une pièce sombre et isolé nous permettant de controler nous meme le placement des statuettes de bois ou de la lumière
+Ce qui m’a le plus plu dans cette oeuvre, c’est son concept immersif et interactif. Le fait d’être dans une pièce sombre et isolée crée une ambiance intime qui nous plonge complètement dans l’expérience. J’ai aussi aimé pouvoir contrôler moi-même le placement des statuettes de bois et de la lumière, ce qui donne une impression de liberté et nous permet de façonner l’oeuvre à notre manière. Cette interaction entre les objets et la lumière rend l’expérience à la fois personnelle et presque méditative.
 ### Ce que je ferais autrement
 Honnêtement, j'ai beaucoup apprécié l'oeuvre et j'ai trouvé que c'était assez réfléchi, il n'y a donc pas grand chose que je ferais autrement. Cependant, j'ai trouvé que c'était légèrement trop compliqué pour des enfants de tous âges. Bien sûr, cela reste tout de même de la programmation de base, mais je crois qu'une affiche expliquant les fonctions des touches sur l'écran ne serait pas de trop pour que l'oeuvre soient adaptés à tout type de public.
 
