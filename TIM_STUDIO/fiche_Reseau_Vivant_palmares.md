@@ -11,7 +11,8 @@
 - Mégane Ranger
 
 ### Installation en cours (ou finale)
-
+![Installation finale Terminal](./media/en_cours_terminal.jpg)
+> Voici l'installation finale de terminal
 ### Schéma de l'installation prévue
 ![Schéma 2D du jeu Terminal](./media/plan_2d_terminal.png)
 > Schéma d'implantation 2D
@@ -29,7 +30,8 @@ Avant l’expérimentation, j’étais déjà très enthousiaste face à la pré
 - Thearylou Lach
 - Jad Saloumi
 ### Installation en cours (ou finale)
-
+![Installation finale Mission décollage](./media/en_cours_oignion.jpg)
+> Voici l'installation finale de Mission décollage
 ### Schéma de l'installation prévue
 ![Moi devant l'exposition](media/moi_devant_expo.jpg)
 ### Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
@@ -45,7 +47,8 @@ J’étais d’abord très intriguée par ce projet, surtout par le tableau de b
 - Ryan Dufault
 - Walid Cheour
 ### Installation en cours (ou finale)
-
+![Installation finale Symbiose](./media/en_cours_symbiose.jpg)
+> Voici l'installation finale de Symbiose
 ### Schéma de l'installation prévue
 ![Moi devant l'exposition](media/moi_devant_expo.jpg)
 > Schéma d'implantation 2D
@@ -61,7 +64,8 @@ Cette œuvre m’intriguait beaucoup, notamment parce que j’apprécie la scien
 - Matis Ghariani
 - Rafael Angon Dube
 ### Installation en cours (ou finale)
-
+![Installation finale Arbre-en-face](./media/en_cours_arbre.jpg)
+> Voici l'installation finale d'Arbre-en-face
 ### Schéma de l'installation prévue
 ![Moi devant l'exposition](media/moi_devant_expo.jpg)
 > Schéma d'implantation 2D
@@ -77,8 +81,8 @@ J’ai été surprise et un peu déstabilisée par la présentation de ce projet
 - Manel Yaya
 - Patricia Nassif
 ### Installation en cours (ou finale)
-
- 
+![Installation finale Quand les yeux se croisent](./media/en_cours_yeux.jpg)
+> Voici l'installation finale de Quand les yeux se croisent
 ### Schéma de l'installation prévue
 ![Moi devant l'exposition](media/moi_devant_expo.jpg)
 > Schéma d'implantation 2D
@@ -91,7 +95,8 @@ Cette oeuvre m’a d’abord surprise. Au premier abord, je ne comprenais pas vr
 - Amira Tounekti
 - Kristy Moussally
 ### Installation en cours (ou finale)
-
+![Installation finale Terminal](./media/en_cours_ocean.jpg)
+> Voici l'installation finale d'Océan rouge
  
 ### Schéma de l'installation prévue
 ![Moi devant l'exposition](media/moi_devant_expo.jpg)
