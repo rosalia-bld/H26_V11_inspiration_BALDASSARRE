@@ -9,9 +9,12 @@ J'ai visité le Centre des Sciences le 1er avril 2026.
 ## Nom de l'artiste
 ## Année de la réalisation
 ## Description de l'œuvre
+![Cartel Language des ordinateurs](./media/en_cours_terminal.jpg)
+> Voici le cartel de Language des ordinateurs
 ## Type d'installation
-L'installation est contemplative et intéractive
+L'installation est contemplative et interactive
 ## Mise en espace 
+croquis
 ## Composantes et techniques
 Nous utilisons l'écran pour programmer les lumières et la plaquette tournante pour ensuite créer l'effet que nous désirons avec les ombres des statuettes.
 - Ordinateur
