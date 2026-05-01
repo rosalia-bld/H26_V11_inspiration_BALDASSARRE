@@ -9,7 +9,7 @@ J'ai visité le Centre des Sciences le 1er avril 2026.
 ## Nom de l'artiste
 ## Année de la réalisation
 ## Description de l'œuvre
-![Cartel Language des ordinateurs](./media/en_cours_terminal.jpg)
+![Cartel Language des ordinateurs](./media/cartel_ordi.jpg)
 > Voici le cartel de Language des ordinateurs
 ## Type d'installation
 L'installation est contemplative et interactive
@@ -18,15 +18,34 @@ croquis
 ## Composantes et techniques
 Nous utilisons l'écran pour programmer les lumières et la plaquette tournante pour ensuite créer l'effet que nous désirons avec les ombres des statuettes.
 - Ordinateur
+
+![Ordinateur](./media/cartel_ordi.jpg)
+> Voici l'ordinateur qui contrôle chaque interaction avec l'écran
 - Écran
+
+![Écran interactif](./media/ecran.jpg)
+> Voici l'écran ainsi que le logiciel de programmation affiché
 - Logiciel de programmation simple (semblable à *Scratch*)
 - Plaquette tournante
 - 2 lumières différentes
+
+![Lumières interactives](./media/lumieres_ordi.jpg)
+> Voici les lumières que nous contrôlons avec l'écran
 ## Éléments nécessaires à la mise en exposition
 - Pièce isolée
+
+![Fenêtre de la pièce](./media/fenetre_piece.jpg)
+> Voici la fenêtre nous permettant de voir l'extérieur a partir de la pièce
 - Structure de bois agissant de table pour l'ensemble des composantes
+![Cartel Language des ordinateurs](./media/cartel_ordi.jpg)
+
 - Boitier de métal vitré permettant de voir les composantes en action et les protéger ainsi que l'écran
+![Cartel Language des ordinateurs](./media/cartel_ordi.jpg)
+
 - Statuettes en bois
+
+![Statuettes de bois](./media/statuette.jpg)
+> Voici les statuettes de bois à  positionner sur la plaque tournante juste en dessous
 ## Mon expérience
 ### Ce qui m'a plus
 Ce qui m’a le plus plu dans cette oeuvre, c’est son concept immersif et interactif. Le fait d’être dans une pièce sombre et isolée crée une ambiance intime qui nous plonge complètement dans l’expérience. J’ai aussi aimé pouvoir contrôler moi-même le placement des statuettes de bois et de la lumière, ce qui donne une impression de liberté et nous permet de façonner l’oeuvre à notre manière. Cette interaction entre les objets et la lumière rend l’expérience à la fois personnelle et presque méditative.
