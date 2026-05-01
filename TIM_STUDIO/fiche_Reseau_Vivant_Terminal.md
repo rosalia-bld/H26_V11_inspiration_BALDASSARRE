@@ -16,7 +16,8 @@ Terminal
 # Année de la réalisation
 Cette exposition a été conçue en 2025 dans le cadre du cours *Expérience multimédia intéractive* pour leur projet collaboratif et interactif de fin de programme.
 ## Description de l'œuvre
-
+cartel
+> Voici le cartel de Terminal
 ## Type d'installation
 ## Mise en espace 
 croquis
