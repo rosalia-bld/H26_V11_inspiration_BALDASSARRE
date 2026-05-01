@@ -19,6 +19,7 @@ Cette exposition a été conçue en 2025 dans le cadre du cours *Expérience mul
 cartel
 > Voici le cartel de Terminal
 ## Type d'installation
+Il s'agit d'une installation interactive
 ## Mise en espace 
 croquis
 > Voici mon croquis de l'installation
