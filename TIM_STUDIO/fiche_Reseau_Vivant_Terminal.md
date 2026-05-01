@@ -1,6 +1,7 @@
 # Expositions finissants
 ## Lieu de mise en exposition
 Cette exposition a eu lieu au Collège Montmorency, dans le grand studio de TIM.
+
 ![Moi devant l'exposition](./media/moi_devant_expo.jpg)
 > Me voici devant l'exposition
 ## Type d'exposition
