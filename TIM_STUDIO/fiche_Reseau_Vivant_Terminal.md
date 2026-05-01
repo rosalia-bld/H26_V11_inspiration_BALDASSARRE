@@ -1,7 +1,8 @@
 # Expositions finissants
 ## Lieu de mise en exposition
 Cette exposition a eu lieu au Collège Montmorency, dans le grand studio de TIM.
-
+![Moi devant l'exposition](./media/moi_devant_expo.jpg)
+> Me voici devant l'exposition
 ## Type d'exposition
 Cette exposition était temporaire et intérieure.
 ## Date de visite
@@ -17,7 +18,7 @@ Terminal
 # Année de la réalisation
 Cette exposition a été conçue en 2025 dans le cadre du cours *Expérience multimédia intéractive* pour leur projet collaboratif et interactif de fin de programme.
 ## Description de l'œuvre
-cartel
+![Cartel de Terminal](./media/cartel_terminal.jpg)
 > Voici le cartel de Terminal
 ## Type d'installation
 Il s'agit d'une installation interactive
