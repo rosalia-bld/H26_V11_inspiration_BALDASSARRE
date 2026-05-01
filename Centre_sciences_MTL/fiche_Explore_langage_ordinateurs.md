@@ -1,5 +1,8 @@
 ## Lieu de mise en exposition
 Cette oeuvre est en exposition au Centre des Sciences de Montréal dans l'exposition permanente *Explore*.
+
+![Moi devant l'exposition](./media/moi_devant_expo_science.jpg)
+> Me voici devant l'exposition
 ## Type d'exposition
 *Explore* est une exposition permanente et intérieure.
 ## Date de visite
@@ -24,7 +27,7 @@ Nous utilisons l'écran pour programmer les lumières et la plaquette tournante 
 - Écran
 
 ![Écran interactif](./media/ecran.jpg)
-> Voici l'écran ainsi que le logiciel de programmation affiché
+> Voici l'écran dans son boîtier ainsi que le logiciel de programmation affiché
 - Logiciel de programmation simple (semblable à *Scratch*)
 - Plaquette tournante
 - 2 lumières différentes
@@ -37,15 +40,14 @@ Nous utilisons l'écran pour programmer les lumières et la plaquette tournante 
 ![Fenêtre de la pièce](./media/fenetre_piece.jpg)
 > Voici la fenêtre nous permettant de voir l'extérieur a partir de la pièce
 - Structure de bois agissant de table pour l'ensemble des composantes
-![Cartel Language des ordinateurs](./media/cartel_ordi.jpg)
-
 - Boitier de métal vitré permettant de voir les composantes en action et les protéger ainsi que l'écran
-![Cartel Language des ordinateurs](./media/cartel_ordi.jpg)
-
 - Statuettes en bois
 
 ![Statuettes de bois](./media/statuette.jpg)
 > Voici les statuettes de bois à  positionner sur la plaque tournante juste en dessous
+
+![Vue générale de l'oeuvre](./media/general.jpg)
+> Voici une vue générale de l'oeuvre
 ## Mon expérience
 ### Ce qui m'a plus
 Ce qui m’a le plus plu dans cette oeuvre, c’est son concept immersif et interactif. Le fait d’être dans une pièce sombre et isolée crée une ambiance intime qui nous plonge complètement dans l’expérience. J’ai aussi aimé pouvoir contrôler moi-même le placement des statuettes de bois et de la lumière, ce qui donne une impression de liberté et nous permet de façonner l’oeuvre à notre manière. Cette interaction entre les objets et la lumière rend l’expérience à la fois personnelle et presque méditative.
