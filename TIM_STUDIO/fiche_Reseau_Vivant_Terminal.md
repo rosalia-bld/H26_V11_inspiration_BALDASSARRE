@@ -19,6 +19,8 @@ Cette exposition a été conçue en 2025 dans le cadre du cours *Expérience mul
 
 ## Type d'installation
 ## Mise en espace 
+croquis
+> Voici mon croquis de l'installation
 ## Composantes et techniques
 - Projecteurs
 - Lumières
