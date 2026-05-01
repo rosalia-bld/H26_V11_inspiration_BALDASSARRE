@@ -1,6 +1,7 @@
 # Expositions finissants
 ## Lieu de mise en exposition
 Cette exposition a eu lieu au Collège Montmorency, dans le grand studio de TIM.
+
 ## Type d'exposition
 Cette exposition était temporaire et intérieure.
 ## Date de visite
