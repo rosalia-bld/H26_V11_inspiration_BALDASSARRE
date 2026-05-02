@@ -24,7 +24,7 @@ Cette exposition a été conçue en 2025 dans le cadre du cours *Expérience mul
 ## Type d'installation
 Il s'agit d'une installation interactive
 ## Mise en espace 
-croquis
+![Croquis de l'oeuvre Terminal](./media/croquis_terminal.jpg)
 > Voici mon croquis de l'installation
 ## Composantes et techniques
 - Projecteurs
