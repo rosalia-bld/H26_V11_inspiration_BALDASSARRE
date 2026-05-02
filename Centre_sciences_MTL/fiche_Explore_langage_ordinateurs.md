@@ -10,7 +10,9 @@ J'ai visité le Centre des Sciences le 1er avril 2026.
 ## Titre de l'œuvre
 *Le langage des ordinateurs*
 ## Nom de l'artiste
+Cette oeuvre est une création collective de l’équipe du Centre des sciences
 ## Année de la réalisation
+L'exposition *Explore* a été inaugurée le 28 novembre 2019
 ## Description de l'œuvre
 ![Cartel Language des ordinateurs](./media/cartel_ordi.jpg)
 > Voici le cartel de Language des ordinateurs
@@ -54,4 +56,5 @@ Nous utilisons l'écran pour programmer les lumières et la plaquette tournante 
 Ce qui m’a le plus plu dans cette oeuvre, c’est son concept immersif et interactif. Le fait d’être dans une pièce sombre et isolée crée une ambiance intime qui nous plonge complètement dans l’expérience. J’ai aussi aimé pouvoir contrôler moi-même le placement des statuettes de bois et de la lumière, ce qui donne une impression de liberté et nous permet de façonner l’oeuvre à notre manière. Cette interaction entre les objets et la lumière rend l’expérience à la fois personnelle et presque méditative.
 ### Ce que je ferais autrement
 Honnêtement, j'ai beaucoup apprécié l'oeuvre et j'ai trouvé que c'était assez réfléchi, il n'y a donc pas grand chose que je ferais autrement. Cependant, j'ai trouvé que c'était légèrement trop compliqué pour des enfants de tous âges. Bien sûr, cela reste tout de même de la programmation de base, mais je crois qu'une affiche expliquant les fonctions des touches sur l'écran ne serait pas de trop pour que l'oeuvre soient adaptés à tout type de public.
-
+## Références
+https://www.centredessciencesdemontreal.com/exposition-permanente/explore
