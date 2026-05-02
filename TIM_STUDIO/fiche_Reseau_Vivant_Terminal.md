@@ -19,6 +19,8 @@ Terminal
 # Année de la réalisation
 Cette exposition a été conçue en 2025 dans le cadre du cours *Expérience multimédia intéractive* pour leur projet collaboratif et interactif de fin de programme.
 ## Description de l'œuvre
+*Terminal* est un jeu collaboratif où plusieurs joueurs contrôlent un opérateur avec leurs téléphones. Leur objectif est de traverser des niveaux pour restaurer des données après une cyberattaque. En se déplaçant, ils laissent des traces qui deviennent des obstacles pour les autres, ce qui rend la progression plus difficile. Si un joueur échoue, tout le monde doit recommencer et les niveaux deviennent de plus en plus complexes.
+
 ![Cartel de Terminal](./media/cartel_terminal.jpg)
 > Voici le cartel de Terminal
 ## Type d'installation
