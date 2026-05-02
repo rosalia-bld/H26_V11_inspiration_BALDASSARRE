@@ -16,6 +16,7 @@ L'exposition *Explore* a été inaugurée le 28 novembre 2019
 ## Description de l'œuvre
 ![Cartel Language des ordinateurs](./media/cartel_ordi.jpg)
 > Voici le cartel de Language des ordinateurs
+Cette oeuvre a rapidement capté mon attention par son caractère différent. Le fait qu’elle soit isolée créait une ambiance plus calme et immersive. J’ai apprécié de pouvoir programmer nous-mêmes les projections, ce qui rendait l’expérience plus engageante. De plus, manipuler les statuettes de bois ajoutait une dimension concrète et interactive que j’ai trouvée vraiment intéressante.
 ## Type d'installation
 L'installation est contemplative et interactive
 ## Mise en espace 
