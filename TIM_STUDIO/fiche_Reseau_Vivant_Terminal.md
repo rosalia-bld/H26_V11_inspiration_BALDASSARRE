@@ -42,6 +42,5 @@ J’ai particulièrement apprécié l’ambiance de cette œuvre, autant au nive
 ### Ce que je ferais autrement
 Selon moi, le projet était déjà assez complet et bien construit, ce qui fait qu’il n’y aurait pas grand-chose à ajouter sur le contenu global. La seule amélioration que j’envisagerais serait au niveau de la complexité des niveaux, qui m’a semblé un peu trop simple. En augmentant légèrement la difficulté ou en ajoutant davantage de défis, l’expérience pourrait devenir plus stimulante et engageante sur la durée.
 # Références
-https://pythons-5.github.io/Terminal/#/
-> Voici le lien vers le github du jeu Terminal
+[Lien vers le github de Terminal](https://pythons-5.github.io/Terminal/#/)
 
