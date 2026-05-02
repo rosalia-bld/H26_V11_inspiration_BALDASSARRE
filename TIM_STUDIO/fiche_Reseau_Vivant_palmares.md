@@ -22,7 +22,10 @@
 > Schémas d'implantation 2D
 
 ![Schéma 3D du jeu Terminal](./media/plan_3d_terminal_1.jpg)
+
 ![Schéma 3D du jeu Terminal](./media/plan_3d_terminal_2.jpg)
+
+![Schéma 3D général du jeu Terminal](./media/plan_ensemble_terminal.jpg)
 > Schémas d'implantation 3D
 ### Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
 Avant l’expérimentation, j’étais déjà très enthousiaste face à la présentation, notamment les lumières, les sons et les poufs pour s’asseoir. Par la suite, cet enthousiasme s’est maintenu, puisque le jeu fonctionnait très bien et offrait une expérience fluide.
@@ -42,7 +45,15 @@ Avant l’expérimentation, j’étais déjà très enthousiaste face à la pré
 ![Schéma 2D Mission décollage](media/plan2d_oignion.png)
 > Schéma 2D Mission décollage
 
-![Schéma 2D tableau Mission décollage](media/plan2d_oignion.png)
+![Schéma 2D tableau Mission décollage](media/plan2d_tableau_oignion.jpg)
+> Schéma 2D tableau de bord
+
+![Schéma 3D Mission décollage](media/plan3d_oignion.jpg)
+> Schéma 3D Mission décollage
+
+
+![Schéma 3D vue de haut Mission décollage](media/plan3d_oignion_haut.jpg)
+> Schéma 3D vue de haut
 ### Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
 J’étais d’abord très intriguée par ce projet, surtout par le tableau de bord qui m’a immédiatement marquée, c'était une idée vraiment ingénieuse. Cependant, j’ai un peu moins apprécié le jeu par la suite, il était globalement fluide, mais présentait parfois quelques "bugs" qui faisaient perdre le fil de l’expérience.
 
