@@ -17,7 +17,8 @@ J'ai visité le Centre des Sciences le 1er avril 2026.
 ## Type d'installation
 L'installation est contemplative et interactive
 ## Mise en espace 
-croquis
+![Croquis de l'oeuvre Language des ordinateurs](./media/croquis_language.jpg)
+> Voici mon croquis de l'oeuvre *Language des ordinateurs*
 ## Composantes et techniques
 Nous utilisons l'écran pour programmer les lumières et la plaquette tournante pour ensuite créer l'effet que nous désirons avec les ombres des statuettes.
 - Ordinateur
