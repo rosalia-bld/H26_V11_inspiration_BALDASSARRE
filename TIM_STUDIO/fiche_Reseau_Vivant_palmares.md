@@ -70,11 +70,12 @@ J’étais d’abord très intriguée par ce projet, surtout par le tableau de b
 ![Installation finale Symbiose](./media/en_cours_symbiose.jpg)
 > Voici l'installation finale de Symbiose
 ### Schéma de l'installation prévue
-![Plan 2D Symbiose](media/moi_devant_expo.jpg)
+![Plan 2D Symbiose](./media/plan2d_symbiose.webp)
 > Schéma d'implantation 2D
 
-![Plan 3D Symbiose](media/moi_devant_expo.jpg)
-> Schéma d'implantation 2D
+![Plan 3D Symbiose](./media/plan3d_symbiose.webp)
+![Plan 3D Symbiose](./media/plan3d_symbiose2.webp)
+> Schémas d'implantation 3D
 ### Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
 Cette œuvre m’intriguait beaucoup, notamment parce que j’apprécie la science et les concepts qui s’y rattachent. Cependant, les "bugs" étaient trop fréquents, ce qui rendait l’expérience difficile à compléter et empêchait d’en profiter pleinement.
  
@@ -90,8 +91,12 @@ Cette œuvre m’intriguait beaucoup, notamment parce que j’apprécie la scien
 ![Installation finale Arbre-en-face](./media/en_cours_arbre.jpg)
 > Voici l'installation finale d'Arbre-en-face
 ### Schéma de l'installation prévue
-![Moi devant l'exposition](media/moi_devant_expo.jpg)
+
+![Plan 2D Arbre-en-face](./media/plan2d_arbre.jpg)
 > Schéma d'implantation 2D
+
+![Plan 3D Arbre-en-face](./media/plan3d_arbre.jpg)
+> Schéma d'implantation 3D
 ### Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
 J’ai été surprise et un peu déstabilisée par la présentation de ce projet, dont le concept n’était pas très clair au départ. Après l’avoir expérimenté, je dois avouer avoir été quelque peu déçue par l’œuvre. Même si le fonctionnement était bien exécuté, le thème ne m’a pas particulièrement interpellée.
 
@@ -107,8 +112,11 @@ J’ai été surprise et un peu déstabilisée par la présentation de ce projet
 ![Installation finale Quand les yeux se croisent](./media/en_cours_yeux.jpg)
 > Voici l'installation finale de Quand les yeux se croisent
 ### Schéma de l'installation prévue
-![Moi devant l'exposition](media/moi_devant_expo.jpg)
+![Plan 2D Quand les yeux se croisent](./media/plan2d_yeux.jpeg)
 > Schéma d'implantation 2D
+
+![Plan 3D Quand les yeux se croisent](./media/plan3d_yeux.jpeg)
+> Schéma d'implantation 3D
 ### Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
 Cette oeuvre m’a d’abord surprise. Au premier abord, je ne comprenais pas vraiment le but et je me suis surtout laissée porter par l’esthétique de l’installation, en admirant la présentation soignée des plantes et des télévisions. Puis, en découvrant progressivement le concept, j’ai beaucoup apprécié l’expérience. La simplicité du projet en faisait justement tout son charme, rendant l’ensemble à la fois accessible et agréable à explorer.
 
@@ -122,9 +130,11 @@ Cette oeuvre m’a d’abord surprise. Au premier abord, je ne comprenais pas vr
 > Voici l'installation finale d'Océan rouge
  
 ### Schéma de l'installation prévue
-![Moi devant l'exposition](media/moi_devant_expo.jpg)
+![Plan 2D Océan rouge](media/plan2d_ocean.png)
 > Schéma d'implantation 2D
- 
+
+![Plan 3D Océan rouge](media/plan3d_ocean.jpg)
+> Schéma d'implantation 3D
  
 ### Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
 J’étais premièrement très investie dans la présentation, puisque j’adore les arcades. Cependant, j’ai trouvé que le jeu était un peu trop simple et qu’il manquait d’un réel objectif, ce qui rendait l’expérience moins engageante.
@@ -144,3 +154,9 @@ Une composante technologique que je ne connaissais pas avant ce projet est le *L
  ## Références
  Voici les références pour les photos des schémas d'implantation et mes recherches supplémentaires
  [Lien vers le github de Terminal](https://pythons-5.github.io/Terminal/#/)
+ [Lien vers le github de Mission décollage]()
+ [Lien vers le github d'Arbre-en-face](https://mammouths.github.io/projet/#/)
+ [Lien vers le github de Symbiose](https://les-chimistes.github.io/symbiose/#/)
+ [Lien vers le github de Quand les yeux se croisent](https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/)
+ [Lien vers le github d'Océan rouge](https://deux-intelligence.github.io/deux-neurones/#/)
+
