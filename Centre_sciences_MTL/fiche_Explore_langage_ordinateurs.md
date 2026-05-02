@@ -34,8 +34,9 @@ Nous utilisons l'écran pour programmer les lumières et la plaquette tournante 
 ![Écran interactif](./media/ecran.jpg)
 > Voici l'écran dans son boîtier ainsi que le logiciel de programmation affiché
 - Logiciel de programmation simple (semblable à *Scratch*)
+- 2 lumières pour éclairer légèrement la pièce et le cartel
 - Plaquette tournante
-- 2 lumières différentes
+- 2 lumières différentes interactives
 
 ![Lumières interactives](./media/lumieres_ordi.jpg)
 > Voici les lumières que nous contrôlons avec l'écran
