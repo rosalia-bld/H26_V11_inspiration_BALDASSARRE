@@ -138,4 +138,6 @@ Le web est un incontournable, car il permet de créer des interfaces et de relie
 La modélisation 3D est également très importante, puisqu’elle aide à concevoir et à visualiser les environnements avant même leur réalisation. Elle permet de mieux planifier les éléments visuels et de créer des univers cohérents, ce qui est essentiel pour offrir une expérience immersive et bien pensée.
 ## Nommer et décrire une technique ou une composante technologique qui est utilisée dans l'un des projets et que vous ne connaissiez pas.
 Une composante technologique que je ne connaissais pas avant ce projet est le *Lidar* utilisé dans Arbre-en-face. Il s’agit d’un capteur qui utilise des lasers pour mesurer la distance entre lui et les objets autour. Dans l’installation, il permet de capter quand quelqu’un touche la toile, puis envoie l’information à l’ordinateur ce qui déclenche des animations comme la croissance des plantes à l’écran.
- 
+ ## Références
+ Voici les références pour les photos des schémas d'implantation et mes recherches supplémentaires
+ [Lien vers le github de Terminal](https://pythons-5.github.io/Terminal/#/)
