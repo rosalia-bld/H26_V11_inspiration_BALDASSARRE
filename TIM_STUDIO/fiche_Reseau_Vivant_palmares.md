@@ -70,7 +70,10 @@ J’étais d’abord très intriguée par ce projet, surtout par le tableau de b
 ![Installation finale Symbiose](./media/en_cours_symbiose.jpg)
 > Voici l'installation finale de Symbiose
 ### Schéma de l'installation prévue
-![Moi devant l'exposition](media/moi_devant_expo.jpg)
+![Plan 2D Symbiose](media/moi_devant_expo.jpg)
+> Schéma d'implantation 2D
+
+![Plan 3D Symbiose](media/moi_devant_expo.jpg)
 > Schéma d'implantation 2D
 ### Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
 Cette œuvre m’intriguait beaucoup, notamment parce que j’apprécie la science et les concepts qui s’y rattachent. Cependant, les "bugs" étaient trop fréquents, ce qui rendait l’expérience difficile à compléter et empêchait d’en profiter pleinement.
