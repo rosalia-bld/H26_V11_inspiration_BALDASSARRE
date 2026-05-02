@@ -27,7 +27,7 @@ L'installation est contemplative et interactive
 Nous utilisons l'écran pour programmer les lumières et la plaquette tournante pour ensuite créer l'effet que nous désirons avec les ombres des statuettes.
 - Ordinateur
 
-![Ordinateur](./media/cartel_ordi.jpg)
+![Ordinateur](./media/ordi_language.jpg)
 > Voici l'ordinateur qui contrôle chaque interaction avec l'écran
 - Écran
 
