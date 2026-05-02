@@ -30,9 +30,13 @@ Il s'agit d'une installation interactive
 > Voici mon croquis de l'installation
 ## Composantes et techniques
 - Projecteurs
+![Projecteur](./media/moi_devant_expo.jpg)
 - Lumières
 - Hauts-parleurs
+![Haut-parleurs](./media/moi_devant_expo.jpg)
 - Site web du jeu
+- Code Qr pour jouer sans internet
+![Code Qr](./media/code_qr.jpg)
 ## Éléments nécessaires à la mise en exposition
 - Poufs pour s'asseoir
 - Pièce alimentée d'électricité
