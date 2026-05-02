@@ -1,4 +1,4 @@
-# Expo Réseau Vivant
+# Exposition des finissants-Réseau Vivant
 ## Palmarès exposition des étudiants TIM
  En somme, je souhaite souligner le travail et les efforts de tous ces étudiants finissants, qui ont su rassembler leurs forces et leurs idées pour créer des projets interactifs à la fois divertissants et bien réalisés. Leur implication reflète sur la qualité des projets présentés.
  
@@ -15,9 +15,12 @@
 > Voici l'installation finale de terminal
 ### Schéma de l'installation prévue
 ![Schéma 2D du jeu Terminal](./media/plan_2d_terminal.png)
+
 ![Schéma 2D du jeu Terminal](./media/plan_2d_terminal_2.png)
+
 ![Schéma 2D du jeu Terminal](./media/plan_2d_terminal_3.png)
 > Schémas d'implantation 2D
+
 ![Schéma 3D du jeu Terminal](./media/plan_3d_terminal_1.jpg)
 ![Schéma 3D du jeu Terminal](./media/plan_3d_terminal_2.jpg)
 > Schémas d'implantation 3D
@@ -123,4 +126,5 @@ Le web est un incontournable, car il permet de créer des interfaces et de relie
 ### Modelisation 3D
 La modélisation 3D est également très importante, puisqu’elle aide à concevoir et à visualiser les environnements avant même leur réalisation. Elle permet de mieux planifier les éléments visuels et de créer des univers cohérents, ce qui est essentiel pour offrir une expérience immersive et bien pensée.
 ## Nommer et décrire une technique ou une composante technologique qui est utilisée dans l'un des projets et que vous ne connaissiez pas.
-
+Une composante technologique que je ne connaissais pas avant ce projet est le *Lidar* utilisé dans Arbre-en-face. Il s’agit d’un capteur qui utilise des lasers pour mesurer la distance entre lui et les objets autour. Dans l’installation, il permet de capter quand quelqu’un touche la toile, puis envoie l’information à l’ordinateur ce qui déclenche des animations comme la croissance des plantes à l’écran.
+ 
